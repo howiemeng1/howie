@@ -2007,7 +2007,7 @@ const figuresDataset = [
     "totalFrames": 36,
     "customUrl": "http:\\\\google.com",
     "reviewLink": "",
-    "credit": "由巴哈網友 <span class='text-blue-400'>99</span> 提供",
+    "credit": "由巴哈網友 <span class='text-blue-400'>88</span> 提供",
     "is18Plus": false,
     "modes": null
   }
