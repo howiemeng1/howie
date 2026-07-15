@@ -1,7 +1,18 @@
 const figuresDataset = [
   {
+    "id": "7788",
+    "title": "\u521D\u56E0",
+    "brand": "GSC",
+    "folder": "7788",
+    "totalFrames": 30,
+    "featured": false,
+    "is18Plus": false,
+    "credit": "\u7531\u5DF4\u54C8\u7DB2\u53CB \u003Cspan class=\u0027text-red-400\u0027\u003E\u963F\u5B5F\u003C/span\u003E \u63D0\u4F9B",
+    "img": "33.JPG"
+  },
+  {
     "id": "makise",
-    "title": "ドリームテック シュタインズ・ゲート 牧瀬紅莉栖 白衣style",
+    "title": "\u30C9\u30EA\u30FC\u30E0\u30C6\u30C3\u30AF \u30B7\u30E5\u30BF\u30A4\u30F3\u30BA\u30FB\u30B2\u30FC\u30C8 \u7267\u702C\u7D05\u8389\u6816 \u767D\u8863style",
     "img": "149.jpg",
     "brand": "WAVE",
     "featured": true,
@@ -15,7 +26,7 @@ const figuresDataset = [
   },
   {
     "id": "altersora",
-    "title": "春日野 穹 Ending Ver.",
+    "title": "\u6625\u65E5\u91CE \u7A79 Ending Ver.",
     "img": "139.jpg",
     "brand": "ALTER",
     "featured": true,
@@ -29,7 +40,7 @@ const figuresDataset = [
   },
   {
     "id": "gokusinsukasi01",
-    "title": "濁心スカジ",
+    "title": "\u6FC1\u5FC3\u30B9\u30AB\u30B8",
     "img": "138.jpg",
     "brand": "MYETHOS",
     "featured": true,
@@ -43,7 +54,7 @@ const figuresDataset = [
   },
   {
     "id": "furanndo",
-    "title": "フランドール・スカーレット",
+    "title": "\u30D5\u30E9\u30F3\u30C9\u30FC\u30EB\u30FB\u30B9\u30AB\u30FC\u30EC\u30C3\u30C8",
     "img": "133.jpg",
     "brand": "ALTER",
     "featured": true,
@@ -57,7 +68,7 @@ const figuresDataset = [
   },
   {
     "id": "PA15",
-    "title": "PA-15 高校心動物語",
+    "title": "PA-15 \u9AD8\u6821\u5FC3\u52D5\u7269\u8A9E",
     "img": "131.jpg",
     "brand": "GSC",
     "featured": true,
@@ -71,7 +82,7 @@ const figuresDataset = [
   },
   {
     "id": "yodayo",
-    "title": "百鬼あやめ",
+    "title": "\u767E\u9B3C\u3042\u3084\u3081",
     "img": "130.jpg",
     "brand": "KOTOBUKIYA",
     "featured": true,
@@ -85,7 +96,7 @@ const figuresDataset = [
   },
   {
     "id": "Ryza",
-    "title": "ライザリン・シュタウト",
+    "title": "\u30E9\u30A4\u30B6\u30EA\u30F3\u30FB\u30B7\u30E5\u30BF\u30A6\u30C8",
     "img": "125.jpg",
     "brand": "GSC",
     "featured": true,
@@ -99,7 +110,7 @@ const figuresDataset = [
   },
   {
     "id": "hokusai1",
-    "title": "セイバー/葛飾北斎",
+    "title": "\u30BB\u30A4\u30D0\u30FC/\u845B\u98FE\u5317\u658E",
     "img": "124.jpg",
     "brand": "GSC",
     "featured": true,
@@ -113,7 +124,7 @@ const figuresDataset = [
   },
   {
     "id": "Javelin1",
-    "title": "ジャベリン ビーチピクニック！Ver.",
+    "title": "\u30B8\u30E3\u30D9\u30EA\u30F3 \u30D3\u30FC\u30C1\u30D4\u30AF\u30CB\u30C3\u30AF\uFF01Ver.",
     "img": "121.jpg",
     "brand": "ALTER",
     "featured": true,
@@ -127,7 +138,7 @@ const figuresDataset = [
   },
   {
     "id": "iriasu1",
-    "title": "イリヤスフィール・フォン・アインツベルン PRISMA Racing ver.",
+    "title": "\u30A4\u30EA\u30E4\u30B9\u30D5\u30A3\u30FC\u30EB\u30FB\u30D5\u30A9\u30F3\u30FB\u30A2\u30A4\u30F3\u30C4\u30D9\u30EB\u30F3 PRISMA Racing ver.",
     "img": "120.jpg",
     "brand": "STRONGER",
     "featured": true,
@@ -141,7 +152,7 @@ const figuresDataset = [
   },
   {
     "id": "YingSwei1",
-    "title": "応瑞",
+    "title": "\u5FDC\u745E",
     "img": "119.jpg",
     "brand": "NEONMAX",
     "featured": true,
@@ -155,7 +166,7 @@ const figuresDataset = [
   },
   {
     "id": "fuyuko",
-    "title": "黛冬優子 Neon Light Romancer Ver.",
+    "title": "\u9EDB\u51AC\u512A\u5B50 Neon Light Romancer Ver.",
     "img": "140.jpg",
     "brand": "GSC",
     "featured": false,
@@ -169,7 +180,7 @@ const figuresDataset = [
   },
   {
     "id": "miku5th",
-    "title": "初音ミクシンフォニー 5th Anniversary Ver.",
+    "title": "\u521D\u97F3\u30DF\u30AF\u30B7\u30F3\u30D5\u30A9\u30CB\u30FC 5th Anniversary Ver.",
     "img": "128.jpg",
     "brand": "GSC",
     "featured": false,
@@ -183,7 +194,7 @@ const figuresDataset = [
   },
   {
     "id": "ginkohareki",
-    "title": "空銀子 和服Ver.",
+    "title": "\u7A7A\u9280\u5B50 \u548C\u670DVer.",
     "img": "126.jpg",
     "brand": "GSC",
     "featured": false,
@@ -197,7 +208,7 @@ const figuresDataset = [
   },
   {
     "id": "furanndoru",
-    "title": "フランドール・スカーレット [AQ]",
+    "title": "\u30D5\u30E9\u30F3\u30C9\u30FC\u30EB\u30FB\u30B9\u30AB\u30FC\u30EC\u30C3\u30C8 [AQ]",
     "img": "99.jpg",
     "brand": "GSC",
     "featured": false,
@@ -211,7 +222,7 @@ const figuresDataset = [
   },
   {
     "id": "mikudress",
-    "title": "初音未來 Memorial Dress Ver.",
+    "title": "\u521D\u97F3\u672A\u4F86 Memorial Dress Ver.",
     "img": "94.jpg",
     "brand": "GSC",
     "featured": false,
@@ -225,7 +236,7 @@ const figuresDataset = [
   },
   {
     "id": "BEATLESS_full",
-    "title": "レイシア 2018 <BLACK MONOLITH>展開Ver.",
+    "title": "\u30EC\u30A4\u30B7\u30A2 2018 \u003CBLACK MONOLITH\u003E\u5C55\u958BVer.",
     "img": "15.jpg",
     "brand": "GSC",
     "featured": false,
@@ -239,7 +250,7 @@ const figuresDataset = [
   },
   {
     "id": "chocola",
-    "title": "POP UP PARADE 巧克力",
+    "title": "POP UP PARADE \u5DE7\u514B\u529B",
     "img": "85.jpg",
     "brand": "GSC",
     "featured": false,
@@ -253,7 +264,7 @@ const figuresDataset = [
   },
   {
     "id": "vanilla",
-    "title": "POP UP PARADE 香草",
+    "title": "POP UP PARADE \u9999\u8349",
     "img": "86.jpg",
     "brand": "GSC",
     "featured": false,
@@ -267,7 +278,7 @@ const figuresDataset = [
   },
   {
     "id": "shutenndouji",
-    "title": "アサシン/酒呑童子",
+    "title": "\u30A2\u30B5\u30B7\u30F3/\u9152\u5451\u7AE5\u5B50",
     "img": "44.jpg",
     "brand": "GSC",
     "featured": false,
@@ -281,7 +292,7 @@ const figuresDataset = [
   },
   {
     "id": "okitasouji",
-    "title": "セイバー/沖田総司",
+    "title": "\u30BB\u30A4\u30D0\u30FC/\u6C96\u7530\u7DCF\u53F8",
     "img": "43.jpg",
     "brand": "GSC",
     "featured": false,
@@ -295,7 +306,7 @@ const figuresDataset = [
   },
   {
     "id": "nero",
-    "title": "アイドル皇帝/ネロ",
+    "title": "\u30A2\u30A4\u30C9\u30EB\u7687\u5E1D/\u30CD\u30ED",
     "img": "49.jpg",
     "brand": "GSC",
     "featured": false,
@@ -309,7 +320,7 @@ const figuresDataset = [
   },
   {
     "id": "white",
-    "title": "ノーゲーム・ノーライフ 白",
+    "title": "\u30CE\u30FC\u30B2\u30FC\u30E0\u30FB\u30CE\u30FC\u30E9\u30A4\u30D5 \u767D",
     "img": "03.jpg",
     "brand": "GSC",
     "featured": false,
@@ -323,7 +334,7 @@ const figuresDataset = [
   },
   {
     "id": "canncole",
-    "title": "愛宕 重兵裝Ver.& 高雄 重兵裝Ver.",
+    "title": "\u611B\u5B95 \u91CD\u5175\u88DDVer.\u0026 \u9AD8\u96C4 \u91CD\u5175\u88DDVer.",
     "img": "32.jpg",
     "brand": "GSC",
     "featured": false,
@@ -337,7 +348,7 @@ const figuresDataset = [
   },
   {
     "id": "takao",
-    "title": "高雄 重兵裝Ver.",
+    "title": "\u9AD8\u96C4 \u91CD\u5175\u88DDVer.",
     "img": "34.jpg",
     "brand": "GSC",
     "featured": false,
@@ -351,7 +362,7 @@ const figuresDataset = [
   },
   {
     "id": "adago",
-    "title": "愛宕 重兵裝Ver.",
+    "title": "\u611B\u5B95 \u91CD\u5175\u88DDVer.",
     "img": "33.jpg",
     "brand": "GSC",
     "featured": false,
@@ -365,7 +376,7 @@ const figuresDataset = [
   },
   {
     "id": "saber_alter_huke",
-    "title": "セイバー・オルタ huke コラボパッケージ",
+    "title": "\u30BB\u30A4\u30D0\u30FC\u30FB\u30AA\u30EB\u30BF huke \u30B3\u30E9\u30DC\u30D1\u30C3\u30B1\u30FC\u30B8",
     "img": "24.jpg",
     "brand": "GSC",
     "featured": false,
@@ -379,7 +390,7 @@ const figuresDataset = [
   },
   {
     "id": "racing_miku_sepang",
-    "title": "レーシングミク 2015 Ver.",
+    "title": "\u30EC\u30FC\u30B7\u30F3\u30B0\u30DF\u30AF 2015 Ver.",
     "img": "71.jpg",
     "brand": "GSC",
     "featured": false,
@@ -393,7 +404,7 @@ const figuresDataset = [
   },
   {
     "id": "miku_race",
-    "title": "レーシングミク セパンVer.",
+    "title": "\u30EC\u30FC\u30B7\u30F3\u30B0\u30DF\u30AF \u30BB\u30D1\u30F3Ver.",
     "img": "50.jpg",
     "brand": "GSC",
     "featured": false,
@@ -407,7 +418,7 @@ const figuresDataset = [
   },
   {
     "id": "eriri",
-    "title": "澤村・スペンサー・英梨々",
+    "title": "\u6FA4\u6751\u30FB\u30B9\u30DA\u30F3\u30B5\u30FC\u30FB\u82F1\u68A8\u3005",
     "img": "48.jpg",
     "brand": "GSC",
     "featured": false,
@@ -421,7 +432,7 @@ const figuresDataset = [
   },
   {
     "id": "sieru",
-    "title": "シエル・アランソン",
+    "title": "\u30B7\u30A8\u30EB\u30FB\u30A2\u30E9\u30F3\u30BD\u30F3",
     "img": "30.jpg",
     "brand": "GSC",
     "featured": false,
@@ -435,7 +446,7 @@ const figuresDataset = [
   },
   {
     "id": "masasekurisu",
-    "title": "牧瀬紅莉栖 白衣Ver.",
+    "title": "\u7267\u702C\u7D05\u8389\u6816 \u767D\u8863Ver.",
     "img": "46.jpg",
     "brand": "GSC",
     "featured": false,
@@ -449,7 +460,7 @@ const figuresDataset = [
   },
   {
     "id": "sinobu",
-    "title": "忍野忍",
+    "title": "\u5FCD\u91CE\u5FCD",
     "img": "31.jpg",
     "brand": "GSC",
     "featured": false,
@@ -463,7 +474,7 @@ const figuresDataset = [
   },
   {
     "id": "BGS",
-    "title": "ブラックゴールドソー -animation version-",
+    "title": "\u30D6\u30E9\u30C3\u30AF\u30B4\u30FC\u30EB\u30C9\u30BD\u30FC -animation version-",
     "img": "27.jpg",
     "brand": "GSC",
     "featured": false,
@@ -477,7 +488,7 @@ const figuresDataset = [
   },
   {
     "id": "DM",
-    "title": "デッドマスター -animation version-",
+    "title": "\u30C7\u30C3\u30C9\u30DE\u30B9\u30BF\u30FC -animation version-",
     "img": "28.jpg",
     "brand": "GSC",
     "featured": false,
@@ -491,7 +502,7 @@ const figuresDataset = [
   },
   {
     "id": "caster",
-    "title": "キャスター [Fate/EXTRA]",
+    "title": "\u30AD\u30E3\u30B9\u30BF\u30FC [Fate/EXTRA]",
     "img": "70.jpg",
     "brand": "GSC",
     "featured": false,
@@ -505,7 +516,7 @@ const figuresDataset = [
   },
   {
     "id": "senngoku",
-    "title": "千石撫子",
+    "title": "\u5343\u77F3\u64AB\u5B50",
     "img": "57.jpg",
     "brand": "GSC",
     "featured": false,
@@ -519,7 +530,7 @@ const figuresDataset = [
   },
   {
     "id": "saber",
-    "title": "セイバー ～約束された勝利の劍(エクスカリバー)～",
+    "title": "\u30BB\u30A4\u30D0\u30FC \uFF5E\u7D04\u675F\u3055\u308C\u305F\u52DD\u5229\u306E\u528D(\u30A8\u30AF\u30B9\u30AB\u30EA\u30D0\u30FC)\uFF5E",
     "img": "42.jpg",
     "brand": "GSC",
     "featured": false,
@@ -533,7 +544,7 @@ const figuresDataset = [
   },
   {
     "id": "saber_lily",
-    "title": "セイバー・リリィ ～全て遠き理想鄉(アヴァロン)～",
+    "title": "\u30BB\u30A4\u30D0\u30FC\u30FB\u30EA\u30EA\u30A3 \uFF5E\u5168\u3066\u9060\u304D\u7406\u60F3\u9109(\u30A2\u30F4\u30A1\u30ED\u30F3)\uFF5E",
     "img": "41.jpg",
     "brand": "GSC",
     "featured": false,
@@ -547,7 +558,7 @@ const figuresDataset = [
   },
   {
     "id": "datumaki",
-    "title": "戦慄のタツマキ",
+    "title": "\u6226\u6144\u306E\u30BF\u30C4\u30DE\u30AD",
     "img": "143.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -561,7 +572,7 @@ const figuresDataset = [
   },
   {
     "id": "pora",
-    "title": "ポーラ 水辺のハプニング？Ver.",
+    "title": "\u30DD\u30FC\u30E9 \u6C34\u8FBA\u306E\u30CF\u30D7\u30CB\u30F3\u30B0\uFF1FVer.",
     "img": "142.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -575,7 +586,7 @@ const figuresDataset = [
   },
   {
     "id": "alterraiza1",
-    "title": "ライザ（ライザリン・シュタウト）",
+    "title": "\u30E9\u30A4\u30B6\uFF08\u30E9\u30A4\u30B6\u30EA\u30F3\u30FB\u30B7\u30E5\u30BF\u30A6\u30C8\uFF09",
     "img": "132.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -589,7 +600,7 @@ const figuresDataset = [
   },
   {
     "id": "miyamotofure1",
-    "title": "宮本 フレデリカ フレ・慢·拉·模樣Ver.",
+    "title": "\u5BAE\u672C \u30D5\u30EC\u30C7\u30EA\u30AB \u30D5\u30EC\u30FB\u6162\u00B7\u62C9\u00B7\u6A21\u6A23Ver.",
     "img": "129.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -603,7 +614,7 @@ const figuresDataset = [
   },
   {
     "id": "Baltimorewhite",
-    "title": "ボルチモア",
+    "title": "\u30DC\u30EB\u30C1\u30E2\u30A2",
     "img": "123.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -617,7 +628,7 @@ const figuresDataset = [
   },
   {
     "id": "GrafZeppelin",
-    "title": "グラーフ・ツェッペリン 砂浜のウルズVer.",
+    "title": "\u30B0\u30E9\u30FC\u30D5\u30FB\u30C4\u30A7\u30C3\u30DA\u30EA\u30F3 \u7802\u6D5C\u306E\u30A6\u30EB\u30BAVer.",
     "img": "118.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -631,7 +642,7 @@ const figuresDataset = [
   },
   {
     "id": "siriasu1",
-    "title": "シリアス 青雲映す碧波Ver.",
+    "title": "\u30B7\u30EA\u30A2\u30B9 \u9752\u96F2\u6620\u3059\u78A7\u6CE2Ver.",
     "img": "112.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -645,7 +656,7 @@ const figuresDataset = [
   },
   {
     "id": "miyamoto1",
-    "title": "バーサーカー／宮本 武蔵",
+    "title": "\u30D0\u30FC\u30B5\u30FC\u30AB\u30FC\uFF0F\u5BAE\u672C \u6B66\u8535",
     "img": "113.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -659,7 +670,7 @@ const figuresDataset = [
   },
   {
     "id": "rutorionfan1",
-    "title": "ル・トリオンファン",
+    "title": "\u30EB\u30FB\u30C8\u30EA\u30AA\u30F3\u30D5\u30A1\u30F3",
     "img": "110.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -673,7 +684,7 @@ const figuresDataset = [
   },
   {
     "id": "lala1",
-    "title": "ララ・サタリン・デビルーク 水着Ver.",
+    "title": "\u30E9\u30E9\u30FB\u30B5\u30BF\u30EA\u30F3\u30FB\u30C7\u30D3\u30EB\u30FC\u30AF \u6C34\u7740Ver.",
     "img": "107.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -687,7 +698,7 @@ const figuresDataset = [
   },
   {
     "id": "sofi1",
-    "title": "ソフィー（ソフィー・ノイエンミュラー）",
+    "title": "\u30BD\u30D5\u30A3\u30FC\uFF08\u30BD\u30D5\u30A3\u30FC\u30FB\u30CE\u30A4\u30A8\u30F3\u30DF\u30E5\u30E9\u30FC\uFF09",
     "img": "105.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -701,7 +712,7 @@ const figuresDataset = [
   },
   {
     "id": "ginko",
-    "title": "空 銀子 猫耳姉弟子Ver.",
+    "title": "\u7A7A \u9280\u5B50 \u732B\u8033\u59C9\u5F1F\u5B50Ver.",
     "img": "103.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -715,7 +726,7 @@ const figuresDataset = [
   },
   {
     "id": "shokuhoumisaki",
-    "title": "食蜂操祈",
+    "title": "\u98DF\u8702\u64CD\u7948",
     "img": "97.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -729,7 +740,7 @@ const figuresDataset = [
   },
   {
     "id": "sentoruisu",
-    "title": "セント路易斯 (St. Louis)",
+    "title": "\u30BB\u30F3\u30C8\u8DEF\u6613\u65AF (St. Louis)",
     "img": "96.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -743,7 +754,7 @@ const figuresDataset = [
   },
   {
     "id": "momo",
-    "title": "モモ・ベリア・デビルーク -ベビードール Ver.-",
+    "title": "\u30E2\u30E2\u30FB\u30D9\u30EA\u30A2\u30FB\u30C7\u30D3\u30EB\u30FC\u30AF -\u30D9\u30D3\u30FC\u30C9\u30FC\u30EB Ver.-",
     "img": "39.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -757,7 +768,7 @@ const figuresDataset = [
   },
   {
     "id": "saber_alter_mizuki",
-    "title": "ライダー／アルトリア・ペンドラゴン［オルタ］",
+    "title": "\u30E9\u30A4\u30C0\u30FC\uFF0F\u30A2\u30EB\u30C8\u30EA\u30A2\u30FB\u30DA\u30F3\u30C9\u30E9\u30B4\u30F3\uFF3B\u30AA\u30EB\u30BF\uFF3D",
     "img": "16.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -771,7 +782,7 @@ const figuresDataset = [
   },
   {
     "id": "Jeanne",
-    "title": "アヴェンジャー／ジャンヌ・ダルク［オルタ］",
+    "title": "\u30A2\u30F4\u30A7\u30F3\u30B8\u30E3\u30FC\uFF0F\u30B8\u30E3\u30F3\u30CC\u30FB\u30C0\u30EB\u30AF\uFF3B\u30AA\u30EB\u30BF\uFF3D",
     "img": "92.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -785,7 +796,7 @@ const figuresDataset = [
   },
   {
     "id": "hayami_kanade",
-    "title": "速水 奏 ミスティック・ドーンVer.",
+    "title": "\u901F\u6C34 \u594F \u30DF\u30B9\u30C6\u30A3\u30C3\u30AF\u30FB\u30C9\u30FC\u30F3Ver.",
     "img": "10.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -799,7 +810,7 @@ const figuresDataset = [
   },
   {
     "id": "yami",
-    "title": "金色的闇 ナースVer.",
+    "title": "\u91D1\u8272\u7684\u95C7 \u30CA\u30FC\u30B9Ver.",
     "img": "20.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -813,7 +824,7 @@ const figuresDataset = [
   },
   {
     "id": "purafuta",
-    "title": "プラフタ",
+    "title": "\u30D7\u30E9\u30D5\u30BF",
     "img": "21.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -827,7 +838,7 @@ const figuresDataset = [
   },
   {
     "id": "sekasaha",
-    "title": "スカサハ 部屋着モード",
+    "title": "\u30B9\u30AB\u30B5\u30CF \u90E8\u5C4B\u7740\u30E2\u30FC\u30C9",
     "img": "19.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -841,7 +852,7 @@ const figuresDataset = [
   },
   {
     "id": "rannco",
-    "title": "神崎 蘭子 薔薇の闇姫Ver.",
+    "title": "\u795E\u5D0E \u862D\u5B50 \u8594\u8587\u306E\u95C7\u59EBVer.",
     "img": "29.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -855,7 +866,7 @@ const figuresDataset = [
   },
   {
     "id": "saber_alter_dress",
-    "title": "セイバー／アルトリア・ペンドラゴン［オルタ］ ドレスVer.",
+    "title": "\u30BB\u30A4\u30D0\u30FC\uFF0F\u30A2\u30EB\u30C8\u30EA\u30A2\u30FB\u30DA\u30F3\u30C9\u30E9\u30B4\u30F3\uFF3B\u30AA\u30EB\u30BF\uFF3D \u30C9\u30EC\u30B9Ver.",
     "img": "25.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -869,7 +880,7 @@ const figuresDataset = [
   },
   {
     "id": "sora",
-    "title": "春日野 穹 チャインドレスVer.",
+    "title": "\u6625\u65E5\u91CE \u7A79 \u30C1\u30E3\u30A4\u30F3\u30C9\u30EC\u30B9Ver.",
     "img": "37.jpg",
     "brand": "ALTER",
     "featured": false,
@@ -883,7 +894,7 @@ const figuresDataset = [
   },
   {
     "id": "baochai1",
-    "title": "バオ・チャイ",
+    "title": "\u30D0\u30AA\u30FB\u30C1\u30E3\u30A4",
     "img": "111.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -897,7 +908,7 @@ const figuresDataset = [
   },
   {
     "id": "Dai_Yu",
-    "title": "Dai-Yu ダイ・ユー",
+    "title": "Dai-Yu \u30C0\u30A4\u30FB\u30E6\u30FC",
     "img": "77.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -911,7 +922,7 @@ const figuresDataset = [
   },
   {
     "id": "Chun_Mei",
-    "title": "春梅 Chun-Mei",
+    "title": "\u6625\u6885 Chun-Mei",
     "img": "75.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -925,7 +936,7 @@ const figuresDataset = [
   },
   {
     "id": "Jin_Lian",
-    "title": "金蓮 Jin-Lian 常套式Ver.",
+    "title": "\u91D1\u84EE Jin-Lian \u5E38\u5957\u5F0FVer.",
     "img": "73.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -939,7 +950,7 @@ const figuresDataset = [
   },
   {
     "id": "JinLian",
-    "title": "金蓮 Jin-Lian",
+    "title": "\u91D1\u84EE Jin-Lian",
     "img": "74.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -953,7 +964,7 @@ const figuresDataset = [
   },
   {
     "id": "Ping_Yi",
-    "title": "瓶兒 Ping-Yi",
+    "title": "\u74F6\u5152 Ping-Yi",
     "img": "76.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -967,7 +978,7 @@ const figuresDataset = [
   },
   {
     "id": "chie",
-    "title": "少女のトゲ ちえ",
+    "title": "\u5C11\u5973\u306E\u30C8\u30B2 \u3061\u3048",
     "img": "93.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -981,7 +992,7 @@ const figuresDataset = [
   },
   {
     "id": "himari",
-    "title": "「お嬢様の花園」天竺葵",
+    "title": "\u300C\u304A\u5B22\u69D8\u306E\u82B1\u5712\u300D\u5929\u7AFA\u8475",
     "img": "81.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -995,7 +1006,7 @@ const figuresDataset = [
   },
   {
     "id": "swan",
-    "title": "白のオデット＆黒のオディール",
+    "title": "\u767D\u306E\u30AA\u30C7\u30C3\u30C8\uFF06\u9ED2\u306E\u30AA\u30C7\u30A3\u30FC\u30EB",
     "img": "01.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -1009,7 +1020,7 @@ const figuresDataset = [
   },
   {
     "id": "swan_b",
-    "title": "黑 of オディール",
+    "title": "\u9ED1 of \u30AA\u30C7\u30A3\u30FC\u30EB",
     "img": "04.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -1023,7 +1034,7 @@ const figuresDataset = [
   },
   {
     "id": "swan_w",
-    "title": "白 of オデット",
+    "title": "\u767D of \u30AA\u30C7\u30C3\u30C8",
     "img": "05.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -1037,7 +1048,7 @@ const figuresDataset = [
   },
   {
     "id": "sannsi",
-    "title": "三世村正 ナースver.",
+    "title": "\u4E09\u4E16\u6751\u6B63 \u30CA\u30FC\u30B9ver.",
     "img": "80.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -1051,7 +1062,7 @@ const figuresDataset = [
   },
   {
     "id": "fuyutsukiwaring",
-    "title": "冬月茉莉 純白ver.",
+    "title": "\u51AC\u6708\u8309\u8389 \u7D14\u767Dver.",
     "img": "69.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -1065,7 +1076,7 @@ const figuresDataset = [
   },
   {
     "id": "saekiaiwaring",
-    "title": "フォルト!! A 佐伯藍",
+    "title": "\u30D5\u30A9\u30EB\u30C8!! A \u4F50\u4F2F\u85CD",
     "img": "68.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -1079,7 +1090,7 @@ const figuresDataset = [
   },
   {
     "id": "mimayawaring",
-    "title": "神和住 真夜テニスウェアver.",
+    "title": "\u795E\u548C\u4F4F \u771F\u591C\u30C6\u30CB\u30B9\u30A6\u30A7\u30A2ver.",
     "img": "90.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -1093,7 +1104,7 @@ const figuresDataset = [
   },
   {
     "id": "natuki",
-    "title": "「ブリリアント・サマー」夏樹沙耶",
+    "title": "\u300C\u30D6\u30EA\u30EA\u30A2\u30F3\u30C8\u30FB\u30B5\u30DE\u30FC\u300D\u590F\u6A39\u6C99\u8036",
     "img": "89.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -1107,7 +1118,7 @@ const figuresDataset = [
   },
   {
     "id": "noeru",
-    "title": "「聖夜の贈りもの」 ノエル・シャ・ノワール",
+    "title": "\u300C\u8056\u591C\u306E\u8D08\u308A\u3082\u306E\u300D \u30CE\u30A8\u30EB\u30FB\u30B7\u30E3\u30FB\u30CE\u30EF\u30FC\u30EB",
     "img": "45.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -1121,7 +1132,7 @@ const figuresDataset = [
   },
   {
     "id": "rakuenn",
-    "title": "「楽園の乙女」スージー・サン",
+    "title": "\u300C\u697D\u5712\u306E\u4E59\u5973\u300D\u30B9\u30FC\u30B8\u30FC\u30FB\u30B5\u30F3",
     "img": "78.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -1135,7 +1146,7 @@ const figuresDataset = [
   },
   {
     "id": "sioubi",
-    "title": "「お嬢様のいたずら」鐘火八重",
+    "title": "\u300C\u304A\u5B22\u69D8\u306E\u3044\u305F\u305A\u3089\u300D\u9418\u706B\u516B\u91CD",
     "img": "79.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -1149,7 +1160,7 @@ const figuresDataset = [
   },
   {
     "id": "himegamiwaring",
-    "title": "「最果ての白雪姫」姫神六花",
+    "title": "\u300C\u6700\u679C\u3066\u306E\u767D\u96EA\u59EB\u300D\u59EB\u795E\u516D\u82B1",
     "img": "88.jpg",
     "brand": "SKYTUBE",
     "featured": false,
@@ -1163,7 +1174,7 @@ const figuresDataset = [
   },
   {
     "id": "nanakusa",
-    "title": "よふかしのうた 七草ナズナ",
+    "title": "\u3088\u3075\u304B\u3057\u306E\u3046\u305F \u4E03\u8349\u30CA\u30BA\u30CA",
     "img": "147.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1177,7 +1188,7 @@ const figuresDataset = [
   },
   {
     "id": "sionn",
-    "title": "紫咲シオン",
+    "title": "\u7D2B\u54B2\u30B7\u30AA\u30F3",
     "img": "137.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1191,7 +1202,7 @@ const figuresDataset = [
   },
   {
     "id": "sennto",
-    "title": "セントー (Centaur)",
+    "title": "\u30BB\u30F3\u30C8\u30FC (Centaur)",
     "img": "22.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1205,7 +1216,7 @@ const figuresDataset = [
   },
   {
     "id": "anaberu2",
-    "title": "紫陽花的妖精 アナベル",
+    "title": "\u7D2B\u967D\u82B1\u7684\u5996\u7CBE \u30A2\u30CA\u30D9\u30EB",
     "img": "66.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1219,7 +1230,7 @@ const figuresDataset = [
   },
   {
     "id": "dasiy2",
-    "title": "雛菊の妖精 デイジー",
+    "title": "\u96DB\u83CA\u306E\u5996\u7CBE \u30C7\u30A4\u30B8\u30FC",
     "img": "65.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1233,7 +1244,7 @@ const figuresDataset = [
   },
   {
     "id": "aizu",
-    "title": "アイズ・ヴァレンシュタイン",
+    "title": "\u30A2\u30A4\u30BA\u30FB\u30F4\u30A1\u30EC\u30F3\u30B7\u30E5\u30BF\u30A4\u30F3",
     "img": "40.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1247,7 +1258,7 @@ const figuresDataset = [
   },
   {
     "id": "riine",
-    "title": "電脳妖精アイオーン・リーネ",
+    "title": "\u96FB\u8133\u5996\u7CBE\u30A2\u30A4\u30AA\u30FC\u30F3\u30FB\u30EA\u30FC\u30CD",
     "img": "63.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1261,7 +1272,7 @@ const figuresDataset = [
   },
   {
     "id": "irohahime",
-    "title": "五郎八姫 Tony Ver.",
+    "title": "\u4E94\u90CE\u516B\u59EB Tony Ver.",
     "img": "58.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1275,7 +1286,7 @@ const figuresDataset = [
   },
   {
     "id": "forute",
-    "title": "ディアドラグーン・フォルテ",
+    "title": "\u30C7\u30A3\u30A2\u30C9\u30E9\u30B0\u30FC\u30F3\u30FB\u30D5\u30A9\u30EB\u30C6",
     "img": "35.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1289,7 +1300,7 @@ const figuresDataset = [
   },
   {
     "id": "feari",
-    "title": "Tony'sヒロインコレクション フリージア",
+    "title": "Tony\u0027s\u30D2\u30ED\u30A4\u30F3\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3 \u30D5\u30EA\u30FC\u30B8\u30A2",
     "img": "62.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1303,7 +1314,7 @@ const figuresDataset = [
   },
   {
     "id": "sakuya",
-    "title": "光明的熾天使サクヤ -Mode：セラフィム-",
+    "title": "\u5149\u660E\u7684\u71BE\u5929\u4F7F\u30B5\u30AF\u30E4 -Mode\uFF1A\u30BB\u30E9\u30D5\u30A3\u30E0-",
     "img": "56.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1317,7 +1328,7 @@ const figuresDataset = [
   },
   {
     "id": "anaberu",
-    "title": "Tony'sヒロインコレクション アナベル",
+    "title": "Tony\u0027s\u30D2\u30ED\u30A4\u30F3\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3 \u30A2\u30CA\u30D9\u30EB",
     "img": "61.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1331,7 +1342,7 @@ const figuresDataset = [
   },
   {
     "id": "maria",
-    "title": "キルマリア・アイディーン",
+    "title": "\u30AD\u30EB\u30DE\u30EA\u30A2\u30FB\u30A2\u30A4\u30C7\u30A3\u30FC\u30F3",
     "img": "51.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1345,7 +1356,7 @@ const figuresDataset = [
   },
   {
     "id": "oliwie",
-    "title": "ダークエンジェル・オリヴィエ",
+    "title": "\u30C0\u30FC\u30AF\u30A8\u30F3\u30B8\u30A7\u30EB\u30FB\u30AA\u30EA\u30F4\u30A3\u30A8",
     "img": "36.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1359,7 +1370,7 @@ const figuresDataset = [
   },
   {
     "id": "daisy",
-    "title": "デイジー",
+    "title": "\u30C7\u30A4\u30B8\u30FC",
     "img": "60.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1373,7 +1384,7 @@ const figuresDataset = [
   },
   {
     "id": "panisu",
-    "title": "パニス・アンジェリクス",
+    "title": "\u30D1\u30CB\u30B9\u30FB\u30A2\u30F3\u30B8\u30A7\u30EA\u30AF\u30B9",
     "img": "54.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1387,7 +1398,7 @@ const figuresDataset = [
   },
   {
     "id": "kuroyuki",
-    "title": "アクセル・ワールド 黑雪姫",
+    "title": "\u30A2\u30AF\u30BB\u30EB\u30FB\u30EF\u30FC\u30EB\u30C9 \u9ED1\u96EA\u59EB",
     "img": "52.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1401,7 +1412,7 @@ const figuresDataset = [
   },
   {
     "id": "yui",
-    "title": "篁唯依 -月華-",
+    "title": "\u7BC1\u552F\u4F9D -\u6708\u83EF-",
     "img": "53.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1415,7 +1426,7 @@ const figuresDataset = [
   },
   {
     "id": "kureha",
-    "title": "吳羽冬華-クレハ",
+    "title": "\u5433\u7FBD\u51AC\u83EF-\u30AF\u30EC\u30CF",
     "img": "55.jpg",
     "brand": "KOTOBUKIYA",
     "featured": false,
@@ -1429,7 +1440,7 @@ const figuresDataset = [
   },
   {
     "id": "kouhiw01",
-    "title": "ARMS NOTE 水泳部のコウ快ちゃん white",
+    "title": "ARMS NOTE \u6C34\u6CF3\u90E8\u306E\u30B3\u30A6\u5FEB\u3061\u3083\u3093 white",
     "img": "134.jpg",
     "brand": "AMAKUNI",
     "featured": false,
@@ -1443,7 +1454,7 @@ const figuresDataset = [
   },
   {
     "id": "kasima03",
-    "title": "鹿島 輕裝ver",
+    "title": "\u9E7F\u5CF6 \u8F15\u88DDver",
     "img": "136.jpg",
     "brand": "AMAKUNI",
     "featured": false,
@@ -1457,7 +1468,7 @@ const figuresDataset = [
   },
   {
     "id": "itsusiki",
-    "title": "一色いろは",
+    "title": "\u4E00\u8272\u3044\u308D\u306F",
     "img": "135.jpg",
     "brand": "AMAKUNI",
     "featured": false,
@@ -1471,7 +1482,7 @@ const figuresDataset = [
   },
   {
     "id": "kouhi",
-    "title": "ARMS NOTE 水泳部のコウハイちゃん",
+    "title": "ARMS NOTE \u6C34\u6CF3\u90E8\u306E\u30B3\u30A6\u30CF\u30A4\u3061\u3083\u3093",
     "img": "84.jpg",
     "brand": "AMAKUNI",
     "featured": false,
@@ -1485,7 +1496,7 @@ const figuresDataset = [
   },
   {
     "id": "pride",
-    "title": "七つの大罪 魔王黙示録 傲慢ノ章 ルシファー -スイカ割りノ節- 金色ノ項 通常版",
+    "title": "\u4E03\u3064\u306E\u5927\u7F6A \u9B54\u738B\u9ED9\u793A\u9332 \u50B2\u6162\u30CE\u7AE0 \u30EB\u30B7\u30D5\u30A1\u30FC -\u30B9\u30A4\u30AB\u5272\u308A\u30CE\u7BC0- \u91D1\u8272\u30CE\u9805 \u901A\u5E38\u7248",
     "img": "82.jpg",
     "brand": "AMAKUNI",
     "featured": false,
@@ -1499,7 +1510,7 @@ const figuresDataset = [
   },
   {
     "id": "kurumisitagi",
-    "title": "時崎狂三 ランジェリーVer",
+    "title": "\u6642\u5D0E\u72C2\u4E09 \u30E9\u30F3\u30B8\u30A7\u30EA\u30FCVer",
     "img": "83.jpg",
     "brand": "ALPHAMAX",
     "featured": false,
@@ -1513,7 +1524,7 @@ const figuresDataset = [
   },
   {
     "id": "rennga",
-    "title": "愛玩妖精 蓮華",
+    "title": "\u611B\u73A9\u5996\u7CBE \u84EE\u83EF",
     "img": "64.jpg",
     "brand": "ALPHAMAX",
     "featured": false,
@@ -1527,7 +1538,7 @@ const figuresDataset = [
   },
   {
     "id": "kurumi_tokei",
-    "title": "時崎狂三",
+    "title": "\u6642\u5D0E\u72C2\u4E09",
     "img": "38.jpg",
     "brand": "ALPHAMAX",
     "featured": false,
@@ -1541,7 +1552,7 @@ const figuresDataset = [
   },
   {
     "id": "sakuya_waio",
-    "title": "シャイニング・アーク サクヤ -Mode:ヴァイオレット-",
+    "title": "\u30B7\u30E3\u30A4\u30CB\u30F3\u30B0\u30FB\u30A2\u30FC\u30AF \u30B5\u30AF\u30E4 -Mode:\u30F4\u30A1\u30A4\u30AA\u30EC\u30C3\u30C8-",
     "img": "72.jpg",
     "brand": "ALPHAMAX",
     "featured": false,
@@ -1555,7 +1566,7 @@ const figuresDataset = [
   },
   {
     "id": "marugarete4w",
-    "title": "マルガレーテ",
+    "title": "\u30DE\u30EB\u30AC\u30EC\u30FC\u30C6",
     "img": "127.jpg",
     "brand": "NATIVE",
     "featured": false,
@@ -1569,7 +1580,7 @@ const figuresDataset = [
   },
   {
     "id": "youseiqueen",
-    "title": "Dai-Yu ダイ・ユー (Native)",
+    "title": "Dai-Yu \u30C0\u30A4\u30FB\u30E6\u30FC (Native)",
     "img": "87.jpg",
     "brand": "NATIVE",
     "featured": false,
@@ -1583,7 +1594,7 @@ const figuresDataset = [
   },
   {
     "id": "alicewaring",
-    "title": "アリス of 品評會",
+    "title": "\u30A2\u30EA\u30B9 of \u54C1\u8A55\u6703",
     "img": "02.jpg",
     "brand": "NATIVE",
     "featured": false,
@@ -1597,7 +1608,7 @@ const figuresDataset = [
   },
   {
     "id": "arikowaring",
-    "title": "夜伽の国の亞璃子",
+    "title": "\u591C\u4F3D\u306E\u56FD\u306E\u4E9E\u7483\u5B50",
     "img": "91.jpg",
     "brand": "NATIVE",
     "featured": false,
@@ -1611,7 +1622,7 @@ const figuresDataset = [
   },
   {
     "id": "Ahri",
-    "title": "Myethos-英雄聯盟 靈魂蓮華 阿璃",
+    "title": "Myethos-\u82F1\u96C4\u806F\u76DF \u9748\u9B42\u84EE\u83EF \u963F\u7483",
     "img": "152.jpg",
     "brand": "MYETHOS",
     "featured": false,
@@ -1639,7 +1650,7 @@ const figuresDataset = [
   },
   {
     "id": "hakuchou1",
-    "title": "ドリームテック 白鳥の女の子",
+    "title": "\u30C9\u30EA\u30FC\u30E0\u30C6\u30C3\u30AF \u767D\u9CE5\u306E\u5973\u306E\u5B50",
     "img": "100.jpg",
     "brand": "WAVE",
     "featured": false,
@@ -1653,7 +1664,7 @@ const figuresDataset = [
   },
   {
     "id": "allsunday",
-    "title": "Playback Memories” ミス・オールサンデー",
+    "title": "Playback Memories\u201D \u30DF\u30B9\u30FB\u30AA\u30FC\u30EB\u30B5\u30F3\u30C7\u30FC",
     "img": "151.jpg",
     "brand": "MEGAHOUSE",
     "featured": false,
@@ -1667,7 +1678,7 @@ const figuresDataset = [
   },
   {
     "id": "habbkoku",
-    "title": "ワンピース ボア・ハンコック Ver.BB",
+    "title": "\u30EF\u30F3\u30D4\u30FC\u30B9 \u30DC\u30A2\u30FB\u30CF\u30F3\u30B3\u30C3\u30AF Ver.BB",
     "img": "145.jpg",
     "brand": "MEGAHOUSE",
     "featured": false,
@@ -1681,7 +1692,7 @@ const figuresDataset = [
   },
   {
     "id": "makima",
-    "title": "BiCute Bunnies Figure チェンソーマン ーマキマー",
+    "title": "BiCute Bunnies Figure \u30C1\u30A7\u30F3\u30BD\u30FC\u30DE\u30F3 \u30FC\u30DE\u30AD\u30DE\u30FC",
     "img": "154.jpg",
     "brand": "FURYU",
     "featured": false,
@@ -1695,7 +1706,7 @@ const figuresDataset = [
   },
   {
     "id": "pawa",
-    "title": "BiCute Bunnies Figure チェンソーマン ーパワーー",
+    "title": "BiCute Bunnies Figure \u30C1\u30A7\u30F3\u30BD\u30FC\u30DE\u30F3 \u30FC\u30D1\u30EF\u30FC\u30FC",
     "img": "153.jpg",
     "brand": "FURYU",
     "featured": false,
@@ -1709,7 +1720,7 @@ const figuresDataset = [
   },
   {
     "id": "shutenzom1",
-    "title": "アサシン／酒呑童子 英霊祭裝Ver.",
+    "title": "\u30A2\u30B5\u30B7\u30F3\uFF0F\u9152\u5451\u7AE5\u5B50 \u82F1\u970A\u796D\u88DDVer.",
     "img": "116.jpg",
     "brand": "QUESQ",
     "featured": false,
@@ -1723,7 +1734,7 @@ const figuresDataset = [
   },
   {
     "id": "UCINANA",
-    "title": "ToLOVEる－とらぶる－ダークネス ナナ・アスタ・デビルーク ダークネス",
+    "title": "ToLOVE\u308B\uFF0D\u3068\u3089\u3076\u308B\uFF0D\u30C0\u30FC\u30AF\u30CD\u30B9 \u30CA\u30CA\u30FB\u30A2\u30B9\u30BF\u30FB\u30C7\u30D3\u30EB\u30FC\u30AF \u30C0\u30FC\u30AF\u30CD\u30B9",
     "img": "101.jpg",
     "brand": "UCI",
     "featured": false,
@@ -1737,7 +1748,7 @@ const figuresDataset = [
   },
   {
     "id": "Astolfo",
-    "title": "ジャンヌ・ダルク＆アストルフォ TYPE-MOON Racing ver.",
+    "title": "\u30B8\u30E3\u30F3\u30CC\u30FB\u30C0\u30EB\u30AF\uFF06\u30A2\u30B9\u30C8\u30EB\u30D5\u30A9 TYPE-MOON Racing ver.",
     "img": "98.jpg",
     "brand": "PLUSONE",
     "featured": false,
@@ -1751,7 +1762,7 @@ const figuresDataset = [
   },
   {
     "id": "mikusakura",
-    "title": "櫻未來～桜妖精ver",
+    "title": "\u6AFB\u672A\u4F86\uFF5E\u685C\u5996\u7CBEver",
     "img": "95.jpg",
     "brand": "SPIRITALE",
     "featured": false,
@@ -1765,7 +1776,7 @@ const figuresDataset = [
   },
   {
     "id": "amilia_black",
-    "title": "エミリア -Crystal Dress Ver-",
+    "title": "\u30A8\u30DF\u30EA\u30A2 -Crystal Dress Ver-",
     "img": "12.jpg",
     "brand": "ESTREAM",
     "featured": false,
@@ -1779,7 +1790,7 @@ const figuresDataset = [
   },
   {
     "id": "rinsia",
-    "title": "第3村人 リンシア",
+    "title": "\u7B2C3\u6751\u4EBA \u30EA\u30F3\u30B7\u30A2",
     "img": "18.jpg",
     "brand": "VERTEX",
     "featured": false,
@@ -1793,7 +1804,7 @@ const figuresDataset = [
   },
   {
     "id": "Albedo",
-    "title": "オーバーロード アルベド",
+    "title": "\u30AA\u30FC\u30D0\u30FC\u30ED\u30FC\u30C9 \u30A2\u30EB\u30D9\u30C9",
     "img": "67.jpg",
     "brand": "FNEX",
     "featured": false,
@@ -1807,7 +1818,7 @@ const figuresDataset = [
   },
   {
     "id": "saber_alter_kimono",
-    "title": "セイバーオルタ 着物Ver.",
+    "title": "\u30BB\u30A4\u30D0\u30FC\u30AA\u30EB\u30BF \u7740\u7269Ver.",
     "img": "11.jpg",
     "brand": "KADOKAWA",
     "featured": false,
@@ -1821,7 +1832,7 @@ const figuresDataset = [
   },
   {
     "id": "saber_haregi",
-    "title": "saber 晴れ着",
+    "title": "saber \u6674\u308C\u7740",
     "img": "23.jpg",
     "brand": "ANIPLEX",
     "featured": false,
@@ -1835,7 +1846,7 @@ const figuresDataset = [
   },
   {
     "id": "sie1",
-    "title": "美咲詩絵 「夏草」",
+    "title": "\u7F8E\u54B2\u8A69\u7D75 \u300C\u590F\u8349\u300D",
     "img": "108.jpg",
     "brand": "DAIKI",
     "featured": false,
@@ -1849,7 +1860,7 @@ const figuresDataset = [
   },
   {
     "id": "kurumi",
-    "title": "デート・ア・ライブⅡ「時崎 狂三」",
+    "title": "\u30C7\u30FC\u30C8\u30FB\u30A2\u30FB\u30E9\u30A4\u30D6\u2161\u300C\u6642\u5D0E \u72C2\u4E09\u300D",
     "img": "09.jpg",
     "brand": "BROCCOLI",
     "featured": false,
@@ -1863,7 +1874,7 @@ const figuresDataset = [
   },
   {
     "id": "arisa",
-    "title": "アリサ・イリーニチナ・アミエーラ",
+    "title": "\u30A2\u30EA\u30B5\u30FB\u30A4\u30EA\u30FC\u30CB\u30C1\u30CA\u30FB\u30A2\u30DF\u30A8\u30FC\u30E9",
     "img": "47.jpg",
     "brand": "PLUM",
     "featured": false,
@@ -1877,7 +1888,7 @@ const figuresDataset = [
   },
   {
     "id": "sakuya_teacher",
-    "title": "サクヤ -女教師Ver.-",
+    "title": "\u30B5\u30AF\u30E4 -\u5973\u6559\u5E2BVer.-",
     "img": "59.jpg",
     "brand": "FLARE",
     "featured": false,
@@ -1891,7 +1902,7 @@ const figuresDataset = [
   },
   {
     "id": "nejire",
-    "title": "波動ねじれ ヒーロースーツ",
+    "title": "\u6CE2\u52D5\u306D\u3058\u308C \u30D2\u30FC\u30ED\u30FC\u30B9\u30FC\u30C4",
     "img": "148.jpg",
     "brand": "BELLFINE",
     "featured": false,
@@ -1905,7 +1916,7 @@ const figuresDataset = [
   },
   {
     "id": "sigure",
-    "title": "時雨羽衣 しぐれうい",
+    "title": "\u6642\u96E8\u7FBD\u8863 \u3057\u3050\u308C\u3046\u3044",
     "img": "141.jpg",
     "brand": "POP",
     "featured": false,
@@ -1919,7 +1930,7 @@ const figuresDataset = [
   },
   {
     "id": "Hancock",
-    "title": "Maximum 波雅·漢考克",
+    "title": "Maximum \u6CE2\u96C5\u00B7\u6F22\u8003\u514B",
     "img": "144.jpg",
     "brand": "FNEX",
     "featured": false,
@@ -1933,7 +1944,7 @@ const figuresDataset = [
   },
   {
     "id": "15th",
-    "title": "Lemoe Vtuber 瀕臨絕種團 No.Fifteen 十五號",
+    "title": "Lemoe Vtuber \u7015\u81E8\u7D55\u7A2E\u5718 No.Fifteen \u5341\u4E94\u865F",
     "img": "155.jpg",
     "brand": "LEMOE",
     "featured": false,
@@ -1941,17 +1952,17 @@ const figuresDataset = [
     "totalFrames": 33,
     "customUrl": "",
     "reviewLink": "",
-    "credit": "由巴哈網友 <span class='text-violet-400'>998</span> 提供",
+    "credit": "\u7531\u5DF4\u54C8\u7DB2\u53CB \u003Cspan class=\u0027text-violet-400\u0027\u003E998\u003C/span\u003E \u63D0\u4F9B",
     "is18Plus": false,
     "modes": [
       {
-        "name": "通常角度",
+        "name": "\u901A\u5E38\u89D2\u5EA6",
         "folder": "15th",
         "totalFrames": 33,
         "is18Plus": false
       },
       {
-        "name": "低角度仰視",
+        "name": "\u4F4E\u89D2\u5EA6\u4EF0\u8996",
         "folder": "15th",
         "totalFrames": 33,
         "is18Plus": false
@@ -1960,25 +1971,25 @@ const figuresDataset = [
   },
   {
     "id": "miraboreasu1",
-    "title": "黑龍 - ミラボレアス",
+    "title": "\u9ED1\u9F8D - \u30DF\u30E9\u30DC\u30EC\u30A2\u30B9",
     "img": "109.jpg",
     "brand": "CBF",
     "featured": false,
     "folder": "miraboreasu1",
     "totalFrames": 36,
     "customUrl": "",
-    "reviewLink": "https://你的開箱文網址.com",
-    "credit": "由巴哈網友 <span class='text-red-400'>阿孟</span> 提供",
+    "reviewLink": "https://\u4F60\u7684\u958B\u7BB1\u6587\u7DB2\u5740.com",
+    "credit": "\u7531\u5DF4\u54C8\u7DB2\u53CB \u003Cspan class=\u0027text-red-400\u0027\u003E\u963F\u5B5F\u003C/span\u003E \u63D0\u4F9B",
     "is18Plus": false,
     "modes": [
       {
-        "name": "全彩",
+        "name": "\u5168\u5F69",
         "folder": "miraboreasu1",
         "totalFrames": 36,
         "is18Plus": false
       },
       {
-        "name": "半彩",
+        "name": "\u534A\u5F69",
         "folder": "miraboreasu2",
         "totalFrames": 36,
         "is18Plus": false
@@ -1999,7 +2010,7 @@ const figuresDataset = [
   },
   {
     "id": "Xayah",
-    "title": "英雄聯盟 剎雅",
+    "title": "\u82F1\u96C4\u806F\u76DF \u524E\u96C5",
     "img": "150.jpg",
     "brand": "HOBBYMAX",
     "featured": false,
@@ -2007,7 +2018,7 @@ const figuresDataset = [
     "totalFrames": 36,
     "customUrl": "http:\\\\google.com",
     "reviewLink": "",
-    "credit": "由巴哈網友 <span class='text-blue-400'>789777</span> 提供",
+    "credit": "\u7531\u5DF4\u54C8\u7DB2\u53CB \u003Cspan class=\u0027text-blue-400\u0027\u003E789777\u003C/span\u003E \u63D0\u4F9B",
     "is18Plus": false,
     "modes": null
   }
