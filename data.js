@@ -1,5 +1,15 @@
 const figuresDataset = [
   {
+    "id": "667788",
+    "title": "\u65B0\u6A21\u578B1",
+    "brand": "GSC",
+    "folder": "667788",
+    "totalFrames": 36,
+    "featured": false,
+    "is18Plus": false,
+    "img": "1.jpg"
+  },
+  {
     "id": "7788",
     "title": "\u521D\u56E0",
     "brand": "GSC",
