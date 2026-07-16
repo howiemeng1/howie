@@ -1,5 +1,29 @@
 const figuresDataset = [
   {
+    "id": "mumu",
+    "title": "mumu",
+    "brand": "GSC",
+    "folder": "",
+    "totalFrames": 33,
+    "featured": false,
+    "is18Plus": false,
+    "img": "1.jpg",
+    "modes": [
+      {
+        "name": "mumu1",
+        "folder": "mumu1",
+        "totalFrames": 33,
+        "is18Plus": false
+      },
+      {
+        "name": "mumu2",
+        "folder": "mumu2",
+        "totalFrames": 32,
+        "is18Plus": true
+      }
+    ]
+  },
+  {
     "id": "667788",
     "title": "\u65B0\u6A21\u578B1",
     "brand": "GSC",
